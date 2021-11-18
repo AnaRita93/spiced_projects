@@ -1,6 +1,6 @@
 # SPICED Academy Data Science Projects 
 * week01 - Data Visualization Project with gapminder data 
-* week02 - Classification Project with Titatin data
+* week02 - Classification Project with Titanic data
 * week03 - Regression Project with bikes data 
 * week04 - NLP + web scrapping Project with music lyrics
 * week05 - PostgresSQL + AWS Cloud + Metabase dashboard
