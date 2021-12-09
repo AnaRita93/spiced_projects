@@ -1,0 +1,430 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<meta name="description" content="Pearl Jam &quot;Sad&quot;: All the photographs were peeling And colors turned to gray He stayed in his room with memories for d..."> 
+<meta name="keywords" content="Sad lyrics, Pearl Jam Sad lyrics, Pearl Jam lyrics">
+<meta name="robots" content="noarchive">
+<meta property="og:image" content="//www.azlyrics.com/az_logo_tr.png">
+<title>Pearl Jam - Sad Lyrics | AZLyrics.com</title>
+
+<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.4/css/bootstrap.min.css">
+<link rel="stylesheet" href="/local/az.css">
+
+<!-- HTML5 shim and Respond.js for IE8 support of HTML5 elements and media queries -->
+<!--[if lt IE 9]>
+<script src="https://oss.maxcdn.com/html5shiv/3.7.2/html5shiv.min.js"></script>
+<script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
+<![endif]-->
+<script type="text/javascript">
+window.rtkGPTSlotsTargeting = [
+    [
+        ["genre", "rock"],
+        ["artist", "Pearl Jam"]
+    ]
+];
+</script>
+<script src="https://cookie-cdn.cookiepro.com/scripttemplates/otSDKStub.js" data-language="en" type="text/javascript" charset="UTF-8" data-domain-script="464b7175-7273-4e0f-8753-e9a483d4a156" ></script>
+<script type="text/javascript">
+function OptanonWrapper() { }
+</script>
+
+<script type="text/javascript">
+ArtistName = "Pearl Jam";
+SongName = "Sad";
+function submitAdded(){
+	document.getElementById('addsong').submit();
+	return false;
+}
+function submitCorrected(){
+	document.getElementById('corlyr').submit();
+	return false;
+}
+</script>
+</head>
+<body class="az-song-text">
+  <nav class="navbar navbar-default navbar-static-top noprint">
+  <div class="container">
+    <!-- Brand and toggle get grouped for better mobile display -->
+    <div class="navbar-header">
+      <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#search-collapse">
+        <span class="glyphicon glyphicon-search"></span>
+      </button>
+      <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#artists-collapse">
+        <span class="glyphicon glyphicon-th-list"></span>
+      </button>
+      <a class="navbar-brand" href="//www.azlyrics.com"><img alt="AZLyrics.com" class="pull-left" style="max-height:40px; margin-top:-10px;" src="//www.azlyrics.com/az_logo_tr.png"></a>
+    </div>
+    <ul class="collapse navbar-collapse nav navbar-nav" id="artists-collapse">
+    <li>
+    <div class="btn-group text-center" role="group">
+    <a class="btn btn-menu" href="//www.azlyrics.com/a.html">A</a>
+    <a class="btn btn-menu" href="//www.azlyrics.com/b.html">B</a>
+    <a class="btn btn-menu" href="//www.azlyrics.com/c.html">C</a>
+    <a class="btn btn-menu" href="//www.azlyrics.com/d.html">D</a>
+    <a class="btn btn-menu" href="//www.azlyrics.com/e.html">E</a>
+    <a class="btn btn-menu" href="//www.azlyrics.com/f.html">F</a>
+    <a class="btn btn-menu" href="//www.azlyrics.com/g.html">G</a>
+    <a class="btn btn-menu" href="//www.azlyrics.com/h.html">H</a>
+    <a class="btn btn-menu" href="//www.azlyrics.com/i.html">I</a>
+    <a class="btn btn-menu" href="//www.azlyrics.com/j.html">J</a>
+    <a class="btn btn-menu" href="//www.azlyrics.com/k.html">K</a>
+    <a class="btn btn-menu" href="//www.azlyrics.com/l.html">L</a>
+    <a class="btn btn-menu" href="//www.azlyrics.com/m.html">M</a>
+    <a class="btn btn-menu" href="//www.azlyrics.com/n.html">N</a>
+    <a class="btn btn-menu" href="//www.azlyrics.com/o.html">O</a>
+    <a class="btn btn-menu" href="//www.azlyrics.com/p.html">P</a>
+    <a class="btn btn-menu" href="//www.azlyrics.com/q.html">Q</a>
+    <a class="btn btn-menu" href="//www.azlyrics.com/r.html">R</a>
+    <a class="btn btn-menu" href="//www.azlyrics.com/s.html">S</a>
+    <a class="btn btn-menu" href="//www.azlyrics.com/t.html">T</a>
+    <a class="btn btn-menu" href="//www.azlyrics.com/u.html">U</a>
+    <a class="btn btn-menu" href="//www.azlyrics.com/v.html">V</a>
+    <a class="btn btn-menu" href="//www.azlyrics.com/w.html">W</a>
+    <a class="btn btn-menu" href="//www.azlyrics.com/x.html">X</a>
+    <a class="btn btn-menu" href="//www.azlyrics.com/y.html">Y</a>
+    <a class="btn btn-menu" href="//www.azlyrics.com/z.html">Z</a>
+    <a class="btn btn-menu" href="//www.azlyrics.com/19.html">#</a>
+    </div>
+    </li>
+    </ul>
+
+    <div class="collapse navbar-collapse" id="search-collapse">
+
+        <form class="navbar-form navbar-right search" method="get" action="//search.azlyrics.com/search.php" role="search">
+         <div class="input-group">  
+		<input type="text" class="form-control" placeholder="" name="q" id="q">
+       		<span class="input-group-btn">
+            	  <button class="btn btn-primary" type="submit"><span class="glyphicon glyphicon-search"></span> Search</button>
+          	</span>
+ 	  </div>   
+	</form>
+
+    </div><!-- /.navbar-collapse -->
+    </div><!-- /.container -->
+  </nav>
+
+<!-- top ban -->
+  <div class="lboard-wrap noprint">
+  <div class="container">
+    <div class="row">
+       <div class="col-xs-12 top-ad text-center">
+         <div id="RTK_sdL2"></div>
+       </div>
+    </div>
+  </div>
+  </div>
+
+<!-- main -->
+<div class="container main-page">
+<div class="row">
+<div class="col-lg-2 text-center hidden-md hidden-sm hidden-xs noprint">
+   <div class="sky-ad"></div>
+</div>
+
+<!-- content -->
+<div class="col-xs-12 col-lg-8 text-center">
+
+<div class="div-share noprint">
+<div class="addthis_toolbox addthis_default_style">
+<a href="https://www.facebook.com/sharer.php?u=https%3A%2F%2Fwww.azlyrics.com%2Flyrics%2Fpearljam%2Fsad.html&amp;title=Pearl%20Jam%20-%20Sad%20Lyrics%20%7C%20AZLyrics.com&amp;display=page" target="_blank" class="btn btn-xs btn-share addthis_button_facebook">
+<span class="playblk"><img src="//www.azlyrics.com/images/share-icons/facebook.svg" width="25" height="25" class="playblk" alt="Share on Facebook" title="Share on Facebook"></span>
+</a>
+<a href="https://twitter.com/intent/tweet?url=https%3A%2F%2Fwww.azlyrics.com%2Flyrics%2Fpearljam%2Fsad.html&amp;text=Pearl%20Jam%20-%20Sad%20Lyrics%20%7C%20AZLyrics.com" target="_blank" class="btn btn-xs btn-share addthis_button_twitter">
+<span class="playblk"><img src="//www.azlyrics.com/images/share-icons/twitter.svg" width="25" height="25" class="playblk" alt="Share on Twiiter" title="Share on Twiiter"></span>
+</a>
+<a href="mailto:?subject=Pearl%20Jam%20-%20Sad%20Lyrics%20%7C%20AZLyrics.com&amp;body=https%3A%2F%2Fwww.azlyrics.com%2Flyrics%2Fpearljam%2Fsad.html" target="_blank" class="btn btn-xs btn-share addthis_button_email">
+<span class="playblk"><img src="//www.azlyrics.com/images/share-icons/email.svg" width="25" height="25" class="playblk" alt="Email" title="Email"></span>
+</a>
+<a class="btn btn-xs btn-share addthis_button_print" style="margin-right: 0px !important;" href="javascript:void(window.print());">
+<span class="playblk"><img src="//www.azlyrics.com/images/share-icons/print.svg" width="25" height="25" class="playblk" alt="Print" title="Print"></span>
+</a>
+</div>
+</div>
+
+<div class="div-share"><h1>"Sad" lyrics</h1></div>
+
+<div class="lyricsh">
+<h2><a href="//www.azlyrics.com/p/pearljam.html"><b>Pearl Jam Lyrics</b></a></h2>
+</div>
+
+<div class="ringtone">
+<span id="cf_text_top"></span>
+</div>
+
+<b>"Sad"</b><br>
+<br>
+
+<div>
+<!-- Usage of azlyrics.com content by any third-party lyrics provider is prohibited by our licensing agreement. Sorry about that. -->
+All the photographs were peeling<br>
+And colors turned to gray<br>
+He stayed in his room with memories for days<br>
+He faced an undertow of futures laid to waste<br>
+Embraced by the loss of what he could not replace<br>
+There is no reason that she passed<br>
+And there is no god with a plan<br>
+<br>
+It's sad, and his loneliness is proof<br>
+It's sad, he could only love you<br>
+It's sad<br>
+<br>
+The door swings to a passing fable<br>
+A fate we may delay<br>
+Holding on, to live within our embrace<br>
+Eleven nights, he laid in bed<br>
+Hoping that dreams would bring her back, it's sad<br>
+<br>
+It's sad, and his loneliness is proof<br>
+It's sad, he could only love you<br>
+It's sad<br>
+<br>
+Holding his last breath<br>
+Believing he'll make his way<br>
+But she's not forgotten<br>
+He's haunted, he's searching for escape<br>
+If just one wish could bring her back<br>
+<br>
+It's sad, and his loneliness is proof<br>
+It's sad, he could only love you<br>
+It's sad
+</div>
+
+<br><br>
+
+<!-- MxM banner -->
+<div class="noprint" id="azmxmbanner" style="display:none;">
+<script>
+if  ( /Android|webOS|iPhone|iPod|iPad|BlackBerry|IEMobile|Opera Mini/i.test(navigator.userAgent) ) 
+  {
+     document.getElementById('azmxmbanner').style.display='block';
+     document.write('<div style="margin-left: auto; margin-right: auto;">'+
+  '<iframe scrolling="no" style="border: 0px none; overflow:hidden;" src="//adv.mxmcdn.net/br/t1.0/m_js/e_0/sn_0/l_20086268/su_0/rs_0/tr_3vUCAJhKPwkGx_sclyt-9nlMfPoZXaJyEbGq4MocfQftNE3-zjyiCTMYAcYdqdp_YtCyxEDQo-a3PvzCpUR1DlJW89Hs8JXtJfCbLvceNSf-4-RNrtJcN9KceRz3dv45WBIYenJKF1YtqkojipRw7bztCu3kCZ2zwKMx_8C2OfaZz6FuwwMh6Kaib3-C-X2W8jSpQHwqaKRu1c6eR6CH159HEBlgEEF4O2QSZNPewkPMQc2gKTQVwym6oP1UtcEko7u_3Gd7749tZC09LeWwxf5NlMjLk-5NLOdO80lqfRsrT0-V5mnL0_tfdaFjg_8egSow8hXYhnIIKV1tA2vvxSgBWyYlzxnXQr0CI9l1buMeLF89YnE5h3kpM9abJGWQdnYEUn9g4TY3nT7yZ8cI66lMqJmKG74WAMX1nkwc4tVqJWxcgXGY-cU/" width="290px" height="50px"></iframe>'+
+  '</div>');
+   }
+</script>
+<br><br>
+</div>
+
+<form id="addsong" action="../../add.php" method="post">
+<input type="hidden" name="what" value="add_song">
+<input type="hidden" name="artist" value="Pearl Jam">
+<input type="hidden" name="artist_id" value="471">
+</form>
+
+<form id="corlyr" action="../../add.php" method="post">
+<input type="hidden" name="what" value="correct_lyrics">
+<input type="hidden" name="song_id" value="52348">
+</form>
+
+<div class="smt noprint">
+<a class="btn btn-primary" href="#" onclick="submitCorrected()"><span class="glyphicon glyphicon-pencil"></span> Submit Corrections</a>
+</div>
+
+<div class="smt"><small>Thanks to Mohamed Zaian for adding these lyrics.<br></small>
+</div>
+
+<div class="noprint" style="padding: 15px 0">
+<span id="cf_text_bottom"></span>
+</div>
+
+<!-- credits -->
+<div class="smt"><small>Writer(s): Eddie Vedder</small>
+<br>
+</div>
+
+<!-- song facts -->
+
+<!-- artist link -->
+<ol class="breadcrumb noprint" itemscope itemtype="https://schema.org/BreadcrumbList">
+  <li itemprop="itemListElement" itemscope itemtype="https://schema.org/ListItem"><a itemprop="item" href="//www.azlyrics.com"><span itemprop="name">AZLyrics</span></a><meta itemprop="position" content="1"></li>
+  <li itemprop="itemListElement" itemscope itemtype="https://schema.org/ListItem"><a itemprop="item" href="//www.azlyrics.com/p.html"><span itemprop="name">P</span></a><meta itemprop="position" content="2"></li>
+  <li itemprop="itemListElement" itemscope itemtype="https://schema.org/ListItem"><a itemprop="item" href="//www.azlyrics.com/p/pearljam.html"><span itemprop="name">Pearl Jam Lyrics</span></a><meta itemprop="position" content="3"></li>
+</ol>
+
+<!-- album songlists -->
+<div class="panel songlist-panel noprint">
+<div class="songinalbum_title">album: <b>"Lost Dogs"</b> (2003)</div>
+<div class="listalbum-item"><a href="allnight.html">All Night</a></div>
+<div class="listalbum-item"><a href="sad.html">Sad</a></div>
+<div class="listalbum-item"><a href="down.html">Down</a></div>
+<div class="listalbum-item"><a href="inthemoonlight.html">In The Moonlight</a></div>
+<div class="listalbum-item"><a href="hitchhiker.html">Hitchhiker</a></div>
+<div class="listalbum-item"><a href="dontgimmenolip.html">Don't Gimme No Lip</a></div>
+<div class="listalbum-item"><a href="alone.html">Alone</a></div>
+<div class="listalbum-item"><a href="education.html">Education</a></div>
+<div class="listalbum-item"><a href="u.html">&quot;U&quot;</a></div>
+<div class="listalbum-item"><a href="blackredyellow.html">Black, Red, Yellow</a></div>
+<div class="listalbum-item"><a href="leavinghere.html">Leaving Here</a></div>
+<div class="listalbum-item"><a href="gremmieoutofcontrol.html">Gremmie Out Of Control</a></div>
+<div class="listalbum-item"><a href="whalesong.html">Whale Song</a></div>
+<div class="listalbum-item"><a href="undone.html">Undone</a></div>
+<div class="listalbum-item"><a href="holdon.html">Hold On</a></div>
+<div class="listalbum-item"><a href="yellowledbetter.html">Yellow Ledbetter</a></div>
+<div class="listalbum-item"><a href="fatal.html">Fatal</a></div>
+<div class="listalbum-item"><a href="otherside.html">Other Side</a></div>
+<div class="listalbum-item"><a href="hardtoimagine.html">Hard To Imagine</a></div>
+<div class="listalbum-item"><a href="footsteps.html">Footsteps</a></div>
+<div class="listalbum-item"><a href="wash.html">Wash</a></div>
+<div class="listalbum-item"><a href="deadman.html">Dead Man</a></div>
+<div class="listalbum-item"><a href="strangesttribe.html">Strangest Tribe</a></div>
+<div class="listalbum-item"><a href="drifting.html">Drifting</a></div>
+<div class="listalbum-item"><a href="letmesleep.html">Let Me Sleep</a></div>
+<div class="listalbum-item"><a href="lastkiss.html">Last Kiss</a></div>
+<div class="listalbum-item"><a href="sweetlew.html">Sweet Lew</a></div>
+<div class="listalbum-item"><a href="dirtyfrank.html">Dirty Frank</a></div>
+<div class="listalbum-item"><a href="brother.html">Brother</a></div>
+<div class="listalbum-item"><a href="beegirl.html">Bee Girl</a></div>
+<div class="listalbum-item"><a href="042002.html">04/20/02</a><div class="comment">(Hidden Track)</div></div>
+</div>
+
+<!-- album songlists end -->
+<div class="panel songlist-panel noprint">
+	<div class="songinalbum_title"><b>You May Also Like</b></div>
+	<div class="listalbum-item"><a href="https://www.azlyrics.com/lyrics/placebo/thispicture.html">Placebo - "This Picture"</a><small>I hold an image of the ashtray girl
+Of cigarette burns on my chest
+I wrote a poem that described her world
+And put our friendship to the test
+And late at night
+Whilst on all fours
+She used to watch me...</small></div>
+<div class="listalbum-item"><a href="https://www.azlyrics.com/lyrics/jeffbuckley/forgether.html">Jeff Buckley - "Forget Her"</a><small>While this town is busy sleeping,
+All the noise has died away.
+I walk the streets to stop my weeping,
+'Cause she'll never change her ways.
+
+Don't fool yourself, she was heartache from the moment that ...</small></div>
+<div class="listalbum-item"><a href="https://www.azlyrics.com/lyrics/interpol/pioneertothefalls.html">Interpol - "Pioneer To The Falls"</a><small>Show me the dirt pile
+And I will pray that the soul can take
+Three stowaways
+Vanish with no guile
+And I will not pay
+But the soul can wait
+The soul can wait
+It's still pretty
+What with all the...</small></div>
+<div class="listalbum-item"><a href="https://www.azlyrics.com/lyrics/redhotchilipeppers/icouldhavelied.html">Red Hot Chili Peppers - "I Could Have Lied"</a><small>There must be something
+In the way I feel
+That she don't want me to feel
+The stare she bares cut me
+I don't care
+You see so what if I bleed
+
+I could never change
+Just what I feel
+My face will never sh...</small></div>
+<div class="listalbum-item"><a href="https://www.azlyrics.com/lyrics/ironmaiden/fearofthedark.html">Iron Maiden - "Fear Of The Dark"</a><small>I am a man who walks alone
+And when I'm walking a dark road
+At night or strolling through the park
+When the light begins to change
+I sometimes feel a little strange
+A little anxious when it's dark
+
+Fe...</small></div>
+
+	</div>
+        <form class="search noprint" method="get" action="//search.azlyrics.com/search.php" role="search">
+         <div style="margin-bottom:15px" class="input-group">  
+		<input type="text" class="form-control" placeholder="" name="q">
+       		<span class="input-group-btn">
+            	  <button class="btn btn-primary" type="submit"><span class="glyphicon glyphicon-search"></span> Search</button>
+          	</span>
+ 	  </div>   
+	</form>
+
+<div class="noprint visible-xs-block" style="margin-top:5px;margin-bottom:5px">
+<div id="RTK_QZjx"></div>
+</div>
+
+</div> <!-- content -->
+
+<div class="col-lg-2 text-center hidden-md hidden-sm hidden-xs noprint">
+   <div class="sky-ad"></div>
+</div>
+</div>
+</div>  <!-- container main-page -->
+
+<!-- nav bottom -->
+       <nav class="navbar navbar-default navbar-bottom">
+          <div class="container text-center">
+          <ul class="nav navbar-nav navbar-center">
+            <li><a href="#" onclick="submitAdded()">Submit Lyrics</a></li>
+            <li><a href="//www.stlyrics.com">Soundtracks</a></li>
+            <li><a href="//www.facebook.com/pages/AZLyricscom/154139197951223">Facebook</a></li>
+            <li><a href="//www.azlyrics.com/contact.html">Contact Us</a></li>
+          </ul>
+          </div> 
+        </nav>
+
+<!-- bot ban -->
+  <div class="lboard-wrap noprint">
+  <div class="container">
+    <div class="row">
+       <div class="col-xs-12 top-ad text-center">
+          <div id="RTK_vQAi"></div>
+       </div>
+    </div>
+  </div>
+  </div>
+
+<!-- footer -->
+     <nav class="navbar navbar-footer noprint">
+          <div class="container text-center">
+          <ul class="nav navbar-nav navbar-center">
+            <li><a href="//www.azlyrics.com/adv.html">Advertise Here</a></li>
+            <li><a href="//www.azlyrics.com/privacy.html">Privacy Policy</a></li>
+            <li><a href="//www.azlyrics.com/cookie.html">Cookie Policy</a></li>
+            <li><a href="//www.azlyrics.com/copyright.html">DMCA Policy</a></li>
+          </ul>
+          </div> 
+     </nav>
+     <div class="footer-wrap">
+          <div class="container">
+          <div class="noprint"><span style="font-weight:bold;line-height:54px;vertical-align:top;">Lyrics licensed by </span><img src="//www.azlyrics.com/images/mxm.png" width="184" height="54" alt="MusixMatch"></div>
+          <small>
+             <script type="text/javascript">
+                curdate=new Date();
+                document.write("<strong>Copyright &copy; 2000-"+curdate.getFullYear()+" AZLyrics.com<\/strong>");
+             </script>
+          </small>
+          </div>
+     </div>
+
+<script>
+cf_page_artist = ArtistName;
+cf_page_song = SongName;
+cf_page_genre = "rock";
+cf_no_bit = 0;
+</script>
+<script src="/local/anew.js"></script>
+
+<script type="text/javascript">
+
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-4309237-1']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+
+</script>
+
+    <div id="CssFailCheck" class="hidden" style="height:1px;"></div>
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.4/jquery.min.js"></script>
+    <script>window.jQuery || document.write('<script src="//www.azlyrics.com/local/jquery.min.js"><\/script>')</script>
+    <script>
+      $(function () {
+       if ($('#CssFailCheck').is(':visible') === true) {
+         $('<link rel="stylesheet" type="text/css" href="//www.azlyrics.com/bs/css/bootstrap.min.css"><link rel="stylesheet" href="//www.azlyrics.com/bsaz.css">').appendTo('head');
+       }
+      });
+    </script>
+    <script src="/local/az.js"></script>
+    <script src="/geo.js"></script>
+    <script type="text/javascript" src="https://tracking.musixmatch.com/t1.0/m_js/e_0/sn_0/l_20086268/su_0/rs_0/tr_3vUCAJhKPwkGx_sclyt-9nlMfPoZXaJyEbGq4MocfQftNE3-zjyiCTMYAcYdqdp_YtCyxEDQo-a3PvzCpUR1DlJW89Hs8JXtJfCbLvceNSf-4-RNrtJcN9KceRz3dv45WBIYenJKF1YtqkojipRw7bztCu3kCZ2zwKMx_8C2OfaZz6FuwwMh6Kaib3-C-X2W8jSpQHwqaKRu1c6eR6CH159HEBlgEEF4O2QSZNPewkPMQc2gKTQVwym6oP1UtcEko7u_3Gd7749tZC09LeWwxf5NlMjLk-5NLOdO80lqfRsrT0-V5mnL0_tfdaFjg_8egSow8hXYhnIIKV1tA2vvxSgBWyYlzxnXQr0CI9l1buMeLF89YnE5h3kpM9abJGWQdnYEUn9g4TY3nT7yZ8cI66lMqJmKG74WAMX1nkwc4tVqJWxcgXGY-cU/"></script>
+  </body>
+</html>

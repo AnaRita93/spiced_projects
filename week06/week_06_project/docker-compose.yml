@@ -1,0 +1,89 @@
+version: '3'
+services:
+  # lists all the containers you want to have
+
+  # our first container is called 'database'
+  postgres_database:                      # used as hostname from other containers
+    image: postgres:latest       # downloaded from DockerHub
+    environment:                 # we define environment variables that exist
+                                 # inside the container
+    - POSTGRES_PASSWORD =${pingudb_password}
+    - POSTGRES_USER =${pingudb_user}
+    - POSTGRES_DB=pingudb
+    ports:
+    - 5556:5432             # a port is open
+    # connect port 5555 of the local machine to port 5432 of the database container
+
+    # to connect from your local machine, use:
+    # psql -h 0.0.0.0 -U postgres -p 5555 -d pingudb
+
+  # second container: we define it ourselves
+  python_hello:
+    build: python_hello/   # in this folder there should be a Dockerfile
+    volumes:
+    - ./python_hello/:/app
+    depends_on:            
+    - postgres_database             # it is allowed that python_hello talks to database
+
+  # third container
+  mongodb:
+    image: mongo
+    ports:
+    - 27017:27017
+    
+  # fourth container
+  tweet_collector:
+    build: tweet_collector/
+    volumes:
+    - ./tweet_collector/:/app
+   # environment:
+   # - API_KEY=${twitter_api_key}
+   # - API_SECRET=${twitter_api_secret}
+    depends_on:
+    - mongodb
+    - postgres_database
+    
+  #fifth container 
+  etl:
+    build: etl_job/
+    volumes:
+    
+    - ./etl_job/:/app
+    
+    #environment:
+    
+    #- POSTGRES_PASSWORD=${pingudb_password}
+    #- POSTGRES_USER=${pingudb_user}
+    #- POSTGRES_DB=pingudb
+    depends_on:
+    
+    - mongodb
+    - postgres_database          # it is allowed that python_hello talks to pg and mongo
+
+  # to run this:
+  # docker-compose build
+  # docker-compose up
+
+  #
+  # we can launch MANY postgres servers
+  #
+
+  #db2:                      # used as hostname from other containers
+  #  image: postgres:latest       # downloaded from DockerHub
+  #  environment:                 # we define environment variables that exist
+  #                               # inside the container
+  #  - POSTGRES_PASSWORD=1234
+  #  - POSTGRES_USER=postgres
+  #  - POSTGRES_DB=pingudb
+  #  ports:
+  #  - 5556:5432             # a port is open
+
+  #db3:                      # used as hostname from other containers
+  #  image: postgres:latest       # downloaded from DockerHub
+  #  environment:                 # we define environment variables that exist
+  #                               # inside the container
+  #  - POSTGRES_PASSWORD=1234
+  #  - POSTGRES_USER=postgres
+  #  - POSTGRES_DB=pingudb
+  #  ports:
+  #  - 5557:5432             # a port is open

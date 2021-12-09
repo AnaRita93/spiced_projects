@@ -1,0 +1,10 @@
+pip install pyjokes
+import pyjokes
+import requests
+
+webhook _url ='https://hooks.slack.com/services/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'
+
+joke = pyjokes.get_joke()
+
+data = {'text': joke}
+requests.post(url=webhook_url, json = data)
