@@ -1,0 +1,20 @@
+.header {
+    background-color: rgb(212, 196, 51);
+    color: navy;
+
+    padding-left: 30px;
+    padding-right: 30px;
+    padding-top: 30px;
+    padding-bottom: 30px;    
+}
+
+body {
+
+    background-color: rgb(68, 105, 139);
+
+    margin-left: 30px;
+    margin-right: 30px;
+    margin-top: 0px;
+    margin-bottom: 50px;
+
+}

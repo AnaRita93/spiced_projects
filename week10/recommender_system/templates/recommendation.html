@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Ana Ritas Movie Recommender</title>
+
+        <link rel="stylesheet" href="/static/style.css">
+    </head>
+    <body>
+
+        <!-- here comes the actual content -->
+
+        <div class="header">
+            <h1>Your Movie Recommendation</h1>
+        </div>
+
+        <img src="/static/{{ image_name }}" width="400">
+
+        <p>{{ movie_name }}</p>
+        <!-- the curly brackets are from the JINJA2 syntax -->
+
+        <a href="/hello">back to main page</a>
+
+    </body>
+</html>
